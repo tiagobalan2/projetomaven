@@ -75,6 +75,10 @@ public class ServicoAnimal {
         } return animal;
     }
 
+    public static int listarQuantidadeAnimais(List<Animal> listaAnimal) {
+        return listaAnimal.size();
+    }
+
     public static List<Animal> getListaAnimal() {
         return listaAnimal;
     }
