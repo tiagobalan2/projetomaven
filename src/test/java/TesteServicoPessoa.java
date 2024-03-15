@@ -1,5 +1,3 @@
-import org.example.Pessoa;
-import org.example.ServicoPessoa;
 import org.junit.Assert;
 import org.junit.Test;
 
